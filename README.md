@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WIMIRwarior
 - 👀 I’m interested in mechanical and software engineering;
 - 🎓 I have bachelor's degree in mechanical engineering and I'm currently going for the bachelor's degree in computer science;
-- 🌱 I’m currently learning C and C++;
+- 🌱 I’m currently learning C# and SQL;
 - 📫 How to reach me:  e-mail: inz.karol.czernecki@gmail.com mobile: +48 512242282 (prefer SMS 😉);
 - ⚡ Fun fact: I am a big fan of trains :D "Choo! Choo!" 🚂🚆🚝🚄
 
